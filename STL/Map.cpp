@@ -74,6 +74,7 @@ int main()
     end = const
     insert = value det asl tr const, iterate karun valu det asl tr logn
     empty = const
+    erase = log n
     size = const
     find,count = logN
 */
