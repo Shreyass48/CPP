@@ -33,7 +33,7 @@ void Operations()
 
     cout<<str.substr(2,4)<<endl;
 
-    cout<<str.compare(str2)<<endl;   //return in i.e. non matching chars
+    cout<<str.compare(str2)<<endl;   //return non matching chars op will be 5
 }
 
 int main()
